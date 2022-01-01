@@ -1,16 +1,18 @@
 # VTS-ChangeEyeColor
-VtubeStudioにてモデルの目玉に色をつけます。Unity用です。
+Change the eyeball color of a model in VtubeStudio for Unity.
 
-# 必要プラグイン
-動作には以下プラグインが必要です。
+# Required Plugins
+The following plug-ins are required to run this application.
 
-・HSV-Color-Picker-Unity
+HSV-Color-Picker-Unity
 https://github.com/judah4/HSV-Color-Picker-Unity
 
-・VTS-Sharp
+VTS-Sharp
 https://github.com/FomTarro/VTS-Sharp
 
-# 作成コード
+# Create code
 https://github.com/TaniNatsumi/VTS-ChangeEyeColor/blob/main/Scripts/ChangeMeshColorWithPicker.cs
 
-のみ
+Only
+
+Translated with www.DeepL.com/Translator (free version)
