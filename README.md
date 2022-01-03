@@ -1,5 +1,6 @@
 # VTS-ChangeEyeColor
-Change the eyeball color of a model in VtubeStudio for Unity.
+Change the eyeball color of a model in VtubeStudio.
+This is a Unity project.
 
 # Required Plugins
 The following plug-ins are required to run this application.
